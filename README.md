@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MrDewmon69
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning how to program
+- 😄 Pronouns: He/Him
