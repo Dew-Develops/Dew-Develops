@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MrDewmon69
-- 👀 I’m interested in Programming and Web Development
-- 🌱 I’m currently learning how to develop nice websites
+- 👀 I’m interested in Programming, Web Development, and Game Development
+- 🌱 I’m currently learning how to develop nice websites and make video games.
 - 😄 Pronouns: He/Him
