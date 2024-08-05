@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Dew-Develops. But you can call me Dew.
 - 👀 I’m interested in Programming, Web Development, and Game Development
-- 🌱 I’m currently learning how to develop nice websites and make video games.
+- 🌱 I’m currently learning: C# and Web Development.
 - 😄 Pronouns: He/Him
