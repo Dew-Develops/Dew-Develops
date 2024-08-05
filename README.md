@@ -2,4 +2,4 @@
 - 👀 I’m interested in Programming, Web Development, and Game Development
 - 🌱 I’m currently learning: C# and Web Development.
 - 😄 Pronouns: He/Him
-<img src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/{c-sharp-16}.svg" align="left" width=30>
+<img src="https://www.svgrepo.com/svg/521273/c-sharp-16" align="left" width=30>
